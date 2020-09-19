@@ -6,6 +6,12 @@ sort: 1
 
 Ik doe een test in het **vet**, in het _cursief_, en in het ~~strikethrough~~ 
 
+Ik maak een lijst
+
+* gewoon een testje
+* gewoon een testje
+  1. nog een testje
+
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines.
 
 There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
