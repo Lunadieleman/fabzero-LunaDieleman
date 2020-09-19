@@ -18,6 +18,10 @@ images:
     image: https://via.placeholder.com/200/6ab0de/fff.png
 ---
 
+# Album Images
+
+![Tekening Kask]({{ site.baseurl }}/assets/kask.png)
+
 # Inclusion of Images via link
 
 ## Show image on the internet
