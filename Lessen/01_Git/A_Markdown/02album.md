@@ -20,7 +20,7 @@ images:
 
 # Album Images
 
-! [Tekening Kask]({{ site.baseurl }}/assets/kask.png)
+![Tekening Kask]({{ site.baseurl }}/assets/kask.png)
 
 # Inclusion of Images via link
 
