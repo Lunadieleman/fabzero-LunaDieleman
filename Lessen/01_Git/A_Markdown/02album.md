@@ -20,6 +20,8 @@ images:
 
 # Album Images
 
+voorbeeld foto 
+
 ![Tekening Kask]({{ site.baseurl }}/assets/kask.png)
 
 # Inclusion of Images via link
