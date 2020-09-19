@@ -5,6 +5,7 @@ sort: 1
 # Markdown Elements
 
 Ik doe een test in het **vet**, in het _cursief_, en in het ~~strikethrough~~ 
+**dit is een vetgedrukte tekst** _maar nu schrijf ik in cursief_ 
 
 Ik maak een lijst
 
