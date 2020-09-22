@@ -1,7 +1,7 @@
 # Traject Fabzero
 
 
-Opdracht Lasercutten - *Tussen Plaatsen*
+**Opdracht Lasercutten** - *Tussen Plaatsen*
 
 ![Non-plaats I]({{ site.baseurl }}/assets/tekening2.png)
 
