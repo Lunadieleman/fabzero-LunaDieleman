@@ -4,7 +4,7 @@
 
 # **Opdracht Lasercutten** - *Tussen Plaatsen*
 
-Voorstudies I:
+Voorstudies I: 
 
 ![Non-plaats]({{ site.baseurl }}/assets/1.png)
 
