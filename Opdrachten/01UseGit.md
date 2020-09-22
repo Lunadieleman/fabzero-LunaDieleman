@@ -3,9 +3,9 @@
 
 **Opdracht Lasercutten** - *Tussen Plaatsen*
 
-![Non-plaats]({{ site.baseurl }}/assets/tekening2.png)
+![Non-plaats]({{ site.baseurl }}/assets/1.png)
 
-![Non-plaats I]({{ site.baseurl }}/assets/tekening3.png)
+![Non-plaats I]({{ site.baseurl }}/assets/2.png)
 
-![Non-plaats II]({{ site.baseurl }}/assets/tekening4.png)
+![Non-plaats II]({{ site.baseurl }}/assets/3.png)
 
