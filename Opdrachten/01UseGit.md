@@ -3,7 +3,7 @@
 
 **Opdracht Lasercutten** - *Tussen Plaatsen*
 
-Voorstudies:
+Voorstudies I:
 
 ![Non-plaats]({{ site.baseurl }}/assets/1.png)
 
@@ -11,3 +11,7 @@ Voorstudies:
 
 ![Non-plaats II]({{ site.baseurl }}/assets/3.png)
 
+Voorstudies II:
+
+![Non-plaats II]({{ site.baseurl }}/assets/5.png){:height="50%" width="50%"}
+![Non-plaats II]({{ site.baseurl }}/assets/6.png){:height="50%" width="50%"}
