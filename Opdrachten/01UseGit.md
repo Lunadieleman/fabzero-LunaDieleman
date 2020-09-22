@@ -1,7 +1,8 @@
 # Traject Fabzero
 
 
-**Opdracht Lasercutten** - *Tussen Plaatsen*
+
+# **Opdracht Lasercutten** - *Tussen Plaatsen*
 
 Voorstudies I:
 
