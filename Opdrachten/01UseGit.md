@@ -1,4 +1,4 @@
-# Git gebruiken
+# Traject Fabzero
 
 Opdracht: Gebruik Git om verslag bij te houden van je vooruitgang.
 
