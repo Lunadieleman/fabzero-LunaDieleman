@@ -16,11 +16,11 @@ Voorstudies I:
 
 Voorstudies II:
 
-![Non-plaats II]({{ site.baseurl }}/assets/5.png)
-![Non-plaats II]({{ site.baseurl }}/assets/6.png)
+![Non-plaats III]({{ site.baseurl }}/assets/5.png)
+![Non-plaats III]({{ site.baseurl }}/assets/6.png)
 
 **Test Lasercut**
 
-![Non-plaats]({{ site.baseurl }}/assets/image00001.jpeg)
+![Non-plaats A]({{ site.baseurl }}/assets/image00001.jpeg)
 
-![Non-plaats]({{ site.baseurl }}/assets/image00002.jpeg)
+![Non-plaats B]({{ site.baseurl }}/assets/image00002.jpeg)
