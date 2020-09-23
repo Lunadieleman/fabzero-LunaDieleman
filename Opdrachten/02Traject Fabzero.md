@@ -16,5 +16,11 @@ Voorstudies I:
 
 Voorstudies II:
 
-![Non-plaats II]({{ site.baseurl }}/assets/5.png){:height="50%" width="50%"}
-![Non-plaats II]({{ site.baseurl }}/assets/6.png){:height="50%" width="50%"}
+![Non-plaats II]({{ site.baseurl }}/assets/5.png)
+![Non-plaats II]({{ site.baseurl }}/assets/6.png)
+
+**Test Lasercut**
+
+![Non-plaats]({{ site.baseurl }}/assets/image00001.jpeg)
+
+![Non-plaats]({{ site.baseurl }}/assets/image00002.jpeg)
