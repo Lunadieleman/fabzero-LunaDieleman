@@ -5,7 +5,7 @@
 
 
 
-<p>Stel je voor dat je een wandeling maakt</p>
+<p>style="font-family: times, serif; font-size:11pt; font-style:italic">Stel je voor dat je een wandeling maakt</p>
 <p>je bent op weg naar je bestemming maar besluit in de</p>
 <p>helft van de rit terug te keren.</p>
 <p>Na dezelfde weg opnieuw te hebben afgewandeld arriveer</p>
