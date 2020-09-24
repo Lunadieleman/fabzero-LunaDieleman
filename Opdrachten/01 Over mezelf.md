@@ -5,16 +5,16 @@
 
 
 
-<p>Stel je voor dat je een wandeling maakt</p>
-<p>je bent op weg naar je bestemming maar besluit in de</p>
-<p>helft van de rit terug te keren.</p>
+<p style="font-family: times, serif; font-size:11pt; font-style:italic">Stel je voor dat je een wandeling maakt</p>
+<p style="font-family: times, serif; font-size:11pt; font-style:italic"><p>je bent op weg naar je bestemming maar besluit in de</p>
+<p style="font-family: times, serif; font-size:11pt; font-style:italic"><p>helft van de rit terug te keren.</p>
 <p>Na dezelfde weg opnieuw te hebben afgewandeld arriveer</p>
-<p>je terug op de plaats waar je bent vertrokken.</p>
-<p>De plaatsen vallen samen maar zijn door de</p>
-<p>tussentijd verdeeld. Door de verandering van de situatie,</p>
-<p>misschien een ander persoon die aan de bushalte wacht,</p>
-<p>of iemand die je een vraag stelt, wordt diezelfde plaats</p>
-<p>opgedeeld in twee verschillende.</p>
+<p style="font-family: times, serif; font-size:11pt; font-style:italic"><p>je terug op de plaats waar je bent vertrokken.</p>
+<p style="font-family: times, serif; font-size:11pt; font-style:italic"><p>De plaatsen vallen samen maar zijn door de</p>
+<p style="font-family: times, serif; font-size:11pt; font-style:italic"><p>tussentijd verdeeld. Door de verandering van de situatie,</p>
+<p style="font-family: times, serif; font-size:11pt; font-style:italic"><p>misschien een ander persoon die aan de bushalte wacht,</p>
+<p style="font-family: times, serif; font-size:11pt; font-style:italic"><p>of iemand die je een vraag stelt, wordt diezelfde plaats</p>
+<p style="font-family: times, serif; font-size:11pt; font-style:italic"><p>opgedeeld in twee verschillende.</p>
 
 
 source: `{{ page.path }}`
