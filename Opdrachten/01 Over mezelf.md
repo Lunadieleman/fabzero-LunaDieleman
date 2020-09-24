@@ -1,6 +1,6 @@
 # Over Mezelf
 
-![1]({{ site.baseurl }}/assets/2 19 kopie.jpeg =100x20)
+![1]({{ site.baseurl }}/assets/2 19 kopie.jpeg =80x20)
 
 
 <p>Stel je voor dat je een wandeling maakt</p>
