@@ -16,7 +16,7 @@ Voorstudies I:
 ![Non-plaats I]({{ site.baseurl }}/assets/2.png)
 
 ![Non-plaats II]({{ site.baseurl }}/assets/3.png)
-![Non-plaats II]({{ site.baseurl }}/assets/tekst.png)
+
 
 Voorstudies II:
 
