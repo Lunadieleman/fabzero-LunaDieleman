@@ -1,8 +1,6 @@
-# Traject Fabzero
+# Lasercutten
 
-
-
-# **Opdracht Lasercutten** - *Tussen Plaatsen*
+## **Opdracht Lasercutten** - *Tussen Plaatsen*
 
 Voor deze opdracht ben ik vertrokken vanuit tekeningen die ontstaan zijn door verschillende plattegronden van plaatsen waar ik woon over elkaar heen te leggen en lijnen aan te duiden die elkaar overlappen. In de BUDAfabriek in Kortrijk heb ik de resultaten van die tekeningen gelasercut. Door tijdsgebrek heb ik nog maar één tekening gelasercut, maar volgende week ga ik terug om de reeks af te werken en de mogelijkheden van de machine op een andere wijze te benutten. Dit zeg ik omdat het resultaat van de eerste tekening een 2D uitwerking is, waarin de lijnen enkel gegraveerd zijn en niet uitgesneden. 
 
