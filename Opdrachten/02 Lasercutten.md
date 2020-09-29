@@ -17,13 +17,16 @@ Voor deze opdracht ben ik vertrokken vanuit tekeningen die ontstaan zijn door ve
 **Voorstudies I:** 
 
 ![Non-plaats]({{ site.baseurl }}/assets/1.png){:height="50%" width="50%"}
+
 ![Non-plaats I]({{ site.baseurl }}/assets/2.png){:height="50%" width="50%"}
+
 ![Non-plaats II]({{ site.baseurl }}/assets/3.png){:height="50%" width="50%"}
 
 
 **Voorstudies II:**
 
 ![Non-plaats III]({{ site.baseurl }}/assets/5.png)
+
 ![Non-plaats III]({{ site.baseurl }}/assets/6.png)
 
 **Test met de Lasercutter**
