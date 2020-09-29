@@ -9,7 +9,9 @@ Voor deze opdracht ben ik vertrokken vanuit tekeningen die ontstaan zijn door ve
 **Foto's van de plattegronden**
 
 ![plattegrond1]({{ site.baseurl }}/assets/plattegrond1.png)
+
 ![plattegrond2]({{ site.baseurl }}/assets/plattegrond2.png)
+
 ![plattegrond3]({{ site.baseurl }}/assets/plattegrond3.png)
 
 **Voorstudies I:** 
