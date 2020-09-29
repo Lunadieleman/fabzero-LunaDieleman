@@ -12,7 +12,7 @@ Voor deze opdracht ben ik vertrokken vanuit tekeningen die ontstaan zijn door ve
 
 ![plattegrond3]({{ site.baseurl }}/assets/plattegrond3.png)
 
-### Resultaat Lasercutten
+## Resultaat Lasercutten
 
 
 **Voorstudies I:** 
