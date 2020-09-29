@@ -8,7 +8,7 @@ Mijn broer heeft een 3D printer, dus ditmaal ben ik niet naar de *Budafabriek* i
 
 ![foto]({{ site.baseurl }}/assets/3d4.jpg)
 
-![foto]({{ site.baseurl }}/assets/potje.jpg)
+![foto]({{ site.baseurl }}/assets/potje.png)
 
 
 
