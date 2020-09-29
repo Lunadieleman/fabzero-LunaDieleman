@@ -29,5 +29,5 @@ Voor deze opdracht ben ik vertrokken vanuit tekeningen die ontstaan zijn door ve
 
 **Test met de Lasercutter**
 
-![Non-plaats A]({{ site.baseurl }}/assets/werk.jpeg)
+![Non-plaats A]({{ site.baseurl }}/assets/werk.jpg)
 
