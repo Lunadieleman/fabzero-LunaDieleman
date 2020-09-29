@@ -18,7 +18,7 @@ Voor deze opdracht ben ik vertrokken vanuit tekeningen die ontstaan zijn door ve
 
 **Voorstudies I:** 
 
-![Non-plaats]({{ site.baseurl }}/assets/web.png)
+![Non-plaats]({{ site.baseurl }}/assets/web.jpg)
 
 ![Non-plaats]({{ site.baseurl }}/assets/1.png){:height="50%" width="50%"}
 
