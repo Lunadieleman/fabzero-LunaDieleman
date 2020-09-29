@@ -4,9 +4,12 @@ In de les van 23 september leerden we de basics kennen van Onshape en Thinkercad
 
 ![foto]({{ site.baseurl }}/assets/onshape.png)
 
-Mijn broer heeft een 3D printer, dus ditmaal ben ik niet naar de *Budafabriek* gegaan om het object te printen. 
+Mijn broer heeft een 3D printer, dus ditmaal ben ik niet naar de *Budafabriek* in Kortrijk gegaan om het object te printen. 
 
 ![foto]({{ site.baseurl }}/assets/3d4.jpg)
+
+![foto]({{ site.baseurl }}/assets/potje.jpg)
+
 
 
 
