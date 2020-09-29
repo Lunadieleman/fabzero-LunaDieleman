@@ -12,15 +12,18 @@ Voor deze opdracht ben ik vertrokken vanuit tekeningen die ontstaan zijn door ve
 
 ![plattegrond3]({{ site.baseurl }}/assets/plattegrond3.png)
 
+
 ## Resultaat Lasercutten
 
 
 **Voorstudies I:** 
 
 ![Non-plaats]({{ site.baseurl }}/assets/1.png){:height="50%" width="50%"}
+
 ![Non-plaats I]({{ site.baseurl }}/assets/2.png){:height="50%" width="50%"}
 
 ![Non-plaats II]({{ site.baseurl }}/assets/3.png){:height="50%" width="50%"}
+
 ![Non-plaats II]({{ site.baseurl }}/assets/5.png){:height="50%" width="50%"}
 
 
