@@ -15,6 +15,7 @@ Dit is het resultaat:
 Om de opdracht die gegeven werd toch te volbrengen ben ik nu bezig aan een potlood add-on in *Tinkercad*
 
 ![foto]({{ site.baseurl }}/assets/dos.png)
+
 ![foto]({{ site.baseurl }}/assets/yes.png)
 
 
