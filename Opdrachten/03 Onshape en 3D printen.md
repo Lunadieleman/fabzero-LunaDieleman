@@ -8,7 +8,16 @@ Mijn broer heeft een 3D printer, dus ditmaal ben ik niet naar de *Budafabriek* i
 
 ![foto]({{ site.baseurl }}/assets/3d4.jpg)
 
+Dit is het resultaat: 
+
 ![foto]({{ site.baseurl }}/assets/potje.png)
+
+Om de opdracht die gegeven werd toch te volbrengen ben ik nu bezig aan een potlood add-on in *Tinkercad*
+
+![foto]({{ site.baseurl }}/assets/dos.png)
+![foto]({{ site.baseurl }}/assets/yes.png)
+
+
 
 
 
