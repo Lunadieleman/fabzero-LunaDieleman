@@ -19,15 +19,11 @@ Voor deze opdracht ben ik vertrokken vanuit tekeningen die ontstaan zijn door ve
 **Voorstudies I:** 
 
 <img src="https://lunadieleman.github.io/fabzero-LunaDieleman/assets/1.png" width="200" height="250" />
+<img src="https://lunadieleman.github.io/fabzero-LunaDieleman/assets/2.png" width="200" height="250" />
+<img src="https://lunadieleman.github.io/fabzero-LunaDieleman/assets/3.png" width="200" height="250" />
+<img src="https://lunadieleman.github.io/fabzero-LunaDieleman/assets/5.png" width="200" height="250" />
 
 
-![Non-plaats]({{ site.baseurl }}/assets/1.png){:height="50%" width="50%"}
-
-![Non-plaats I]({{ site.baseurl }}/assets/2.png){:height="50%" width="50%"}
-
-![Non-plaats II]({{ site.baseurl }}/assets/3.png){:height="50%" width="50%"}
-
-![Non-plaats II]({{ site.baseurl }}/assets/5.png){:height="50%" width="50%"}
 
 
 **Test met de Lasercutter**
