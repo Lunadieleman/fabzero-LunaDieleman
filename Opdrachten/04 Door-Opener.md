@@ -2,10 +2,10 @@
 
 Schetsen
 
-![foto]({{ site.baseurl }}/assets/door.png)
+![foto]({{ site.baseurl }}/assets/door.jpg)
 
-![foto]({{ site.baseurl }}/assets/door1.png)
+![foto]({{ site.baseurl }}/assets/door1.jpg)
 
-![foto]({{ site.baseurl }}/assets/door2.png)
+![foto]({{ site.baseurl }}/assets/door2.jpg)
 
-![foto]({{ site.baseurl }}/assets/door3.png)
+![foto]({{ site.baseurl }}/assets/door3.jpg)
