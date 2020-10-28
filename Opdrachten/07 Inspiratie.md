@@ -29,7 +29,7 @@ Clustered cylinders. Concrete cast in 3d-printed mold.
 
 <img src="https://lunadieleman.github.io/fabzero-LunaDieleman/assets/rec.png" width="200" height="250" />
 
-# Digital Embroidery
+# Digital Embroidery Ideas
 
 <img src="https://lunadieleman.github.io/fabzero-LunaDieleman/assets/bor.png" width="200" height="250" />
 
