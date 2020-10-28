@@ -28,3 +28,8 @@ Clustered cylinders. Concrete cast in 3d-printed mold.
 # Recycled pla-filament
 
 <img src="https://lunadieleman.github.io/fabzero-LunaDieleman/assets/rec.png" width="200" height="250" />
+
+# Digital Embroidery
+
+<img src="https://lunadieleman.github.io/fabzero-LunaDieleman/assets/bor.png" width="200" height="250" />
+
