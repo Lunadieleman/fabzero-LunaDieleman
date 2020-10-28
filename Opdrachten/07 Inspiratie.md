@@ -20,7 +20,7 @@ which was designed by the studio and is manufactured using new digital knitting 
 
 <img src="https://lunadieleman.github.io/fabzero-LunaDieleman/assets/e.png" width="200" height="250" />
 
-absid.3dm
+# absid.3dm
 Clustered cylinders. Concrete cast in 3d-printed mold.
 
 <img src="https://lunadieleman.github.io/fabzero-LunaDieleman/assets/f.png" width="200" height="250" />
