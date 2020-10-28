@@ -10,8 +10,8 @@ In deze les maakte in een patch voor op een t-shirt.
 
 Zaterdag 31/10 heb ik een reservatie gemaakt in het lab om nog drie andere patches uit te werken.
 
-![foto]({{ site.baseurl }}/assets/worm.jpg)
+![foto]({{ site.baseurl }}/assets/worm.png)
 
-![foto]({{ site.baseurl }}/assets/vaas.jpg)
+![foto]({{ site.baseurl }}/assets/vaas.png)
 
-![foto]({{ site.baseurl }}/assets/hoofd.jpg)
+![foto]({{ site.baseurl }}/assets/hoofd.png)
